@@ -7,6 +7,6 @@ class CreateUsdaFoodGroups < ActiveRecord::Migration
   end
 
   def self.down
-  	drop-table :usda_food_groups
+  	drop_table :usda_food_groups
   end
 end

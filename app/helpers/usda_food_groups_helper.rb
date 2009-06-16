@@ -1,0 +1,2 @@
+module UsdaFoodGroupsHelper
+end

@@ -9,6 +9,6 @@ class CreateUsdaNutrients < ActiveRecord::Migration
   end
 
   def self.down
-  	drop-table :usda_nutrients
+  	drop_table :usda_nutrients
   end
 end

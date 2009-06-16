@@ -1,0 +1,2 @@
+module UsdaFoodsHelper
+end

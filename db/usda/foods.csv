@@ -1,4 +1,4 @@
-id:id^food_group_id:id^long_desc:str^short_desc:str^common_name:str^manufacturer_name:str^survey:bool^refuse_desc:str^refuse_percent:id^scientific_name:str^nitrogen_factor:float^protein_factor:float^fat_factor:float^carb_factor:float
+id:id^usda_food_group_id:id^long_desc:str^short_desc:str^common_name:str^manufacturer_name:str^survey:bool^refuse_desc:str^refuse_percent:int^scientific_name:str^nitrogen_factor:float^protein_factor:float^fat_factor:float^carb_factor:float
 ~01001~^~0100~^~Butter, salted~^~BUTTER,WITH SALT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
 ~01002~^~0100~^~Butter, whipped, with salt~^~BUTTER,WHIPPED,WITH SALT~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
 ~01003~^~0100~^~Butter oil, anhydrous~^~BUTTER OIL,ANHYDROUS~^~~^~~^~Y~^~~^0^~~^6.38^4.27^8.79^3.87
