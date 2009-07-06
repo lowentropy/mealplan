@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  usda_portion_id: 1
+  amount: 1.5
+  unit_id: 1
+  unit_amount: 1.5
+  piece: MyString
+  desc: MyString
+  broken: false
+
+two:
+  usda_portion_id: 1
+  amount: 1.5
+  unit_id: 1
+  unit_amount: 1.5
+  piece: MyString
+  desc: MyString
+  broken: false
