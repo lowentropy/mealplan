@@ -1,0 +1,14 @@
+processing order:
+	(description)
+	manufacturer
+	substitutions
+	singularization
+	* *1 or *2:
+		* *1
+		* *2
+	trail-mod
+	lead-mod
+	trail-food
+	lead-food
+	primaries: *1 and *2 -> compound(*1,*2)
+	modifiers: *1 and *2 -> compound(*1,*2)
